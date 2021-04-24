@@ -14,6 +14,11 @@ import com.badlogic.gdx.math.Vector3;
 public class Main extends ApplicationAdapter {
 	// base: host1674609_zlayadb
 	// user: host1674609_zloyuser
+
+
+
+
+
 	// pass: zloychesspass
 	public static final int SCR_WIDTH = 720/4*3, SCR_HEIGHT = 1280/4*3;
 	public static final int WHITE = 0, BLACK = 1;
